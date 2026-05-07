@@ -32,12 +32,12 @@
               <scope>test</scope>
               </dependency>
  
- 
-              <dependency>
-              	<groupId>SeleniumTesting</groupId>
-              	<artifactId>Automation01</artifactId>
-              	<version>1.0</version>
-              </dependency>
+ <dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.9.2</version>
+</dependency>
+          
               </dependencies>
          
            <build>
